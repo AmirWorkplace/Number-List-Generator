@@ -1,0 +1,37 @@
+/*function clipBoard() {
+  copyNumber.addEventListener("click", function () {
+    / *      let copy = textarea.innerHTML;
+    copy.select();
+    document.execCommand('copy');
+    console.log(copy); * /
+
+    // const resultEl = check.innerHTML;
+    
+    // const textarea = document.createElement("textarea");
+    // const password = check.innerText;
+    // textarea.value = password;
+    // document.body.appendChild(textarea);
+    check.select();
+    document.execCommand("Copy");
+    // textarea.remove();
+    // console.log(resultEl.innerText);
+  });
+}
+
+clipBoard(); */
+/*   console.log(value1.innerText);
+value1.onkeyup = ()=>{
+  console.log(value1.value);
+}; */
+
+/* 
+    // console.log(seValue, selength);
+    // console.log(amountValue);
+serial-number
+amount-number
+generate-numbe
+download-txt-file
+copy-numberlist
+digit
+
+*/
